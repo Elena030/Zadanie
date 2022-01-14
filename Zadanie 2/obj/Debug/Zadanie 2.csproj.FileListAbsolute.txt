@@ -1,0 +1,11 @@
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\obj\Debug\Zadanie 2.csprojAssemblyReference.cache
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\bin\Debug\Zadanie 2.exe.config
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\bin\Debug\Zadanie 2.exe
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\bin\Debug\Zadanie 2.pdb
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\bin\Debug\ClassLibrary1.dll
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\bin\Debug\lib2.dll
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\bin\Debug\ClassLibrary1.pdb
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\bin\Debug\lib2.pdb
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\obj\Debug\Zadanie 2.csproj.CopyComplete
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\obj\Debug\Zadanie 2.exe
+C:\Users\stud\Downloads\PortableGit-Вайнбергер Е.Е\PortableGit-Вайнбергер Е.Е\Zadanie\Zadanie 2\obj\Debug\Zadanie 2.pdb
